@@ -1,14 +1,14 @@
 {
-  "main.css": "/[VelazquezLuis].github.io/[Portfolio]/static/css/main.08692d9b.chunk.css",
-  "main.js": "/[VelazquezLuis].github.io/[Portfolio]/static/js/main.a1777560.chunk.js",
-  "main.js.map": "/[VelazquezLuis].github.io/[Portfolio]/static/js/main.a1777560.chunk.js.map",
-  "runtime~main.js": "/[VelazquezLuis].github.io/[Portfolio]/static/js/runtime~main.c8398837.js",
-  "runtime~main.js.map": "/[VelazquezLuis].github.io/[Portfolio]/static/js/runtime~main.c8398837.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/[VelazquezLuis].github.io/[Portfolio]/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/[VelazquezLuis].github.io/[Portfolio]/static/js/2.8f71a45e.chunk.js.map",
-  "index.html": "/[VelazquezLuis].github.io/[Portfolio]/index.html",
-  "precache-manifest.da4ec40a98e025c3a61d992030ee8b26.js": "/[VelazquezLuis].github.io/[Portfolio]/precache-manifest.da4ec40a98e025c3a61d992030ee8b26.js",
-  "service-worker.js": "/[VelazquezLuis].github.io/[Portfolio]/service-worker.js",
-  "static/css/main.08692d9b.chunk.css.map": "/[VelazquezLuis].github.io/[Portfolio]/static/css/main.08692d9b.chunk.css.map",
-  "static/media/logo.svg": "/[VelazquezLuis].github.io/[Portfolio]/static/media/logo.5d5d9eef.svg"
+  "main.css": "/Portfolio/static/css/main.08692d9b.chunk.css",
+  "main.js": "/Portfolio/static/js/main.6a98222f.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.6a98222f.chunk.js.map",
+  "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
+  "runtime~main.js.map": "/Portfolio/static/js/runtime~main.132fbc8c.js.map",
+  "static/js/2.8f71a45e.chunk.js": "/Portfolio/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "/Portfolio/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "/Portfolio/index.html",
+  "precache-manifest.2b244dd02cf0e4e78e279c453300b4fa.js": "/Portfolio/precache-manifest.2b244dd02cf0e4e78e279c453300b4fa.js",
+  "service-worker.js": "/Portfolio/service-worker.js",
+  "static/css/main.08692d9b.chunk.css.map": "/Portfolio/static/css/main.08692d9b.chunk.css.map",
+  "static/media/logo.svg": "/Portfolio/static/media/logo.5d5d9eef.svg"
 }
