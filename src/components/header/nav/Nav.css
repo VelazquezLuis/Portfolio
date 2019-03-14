@@ -1,4 +1,6 @@
-.row {
-  display: inline;
-  font-size: .8rem
+
+@media screen and (min-width: 500px) { 
+  .navbar-toggler{
+    display: none;
+  }
 }
