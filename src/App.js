@@ -12,7 +12,10 @@ class App extends Component {
       <div className="App">
         <header className="container">
           <Nav/>
-          <img src={logo} className="App-logo" alt="logo" />
+          
+          
+        </header>
+        <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
@@ -24,8 +27,6 @@ class App extends Component {
           >
             Learn React
           </a>
-          <a href="https://github.com/VelazquezLuis/Portfolio/blob/master/src/resume/resume-Velazquez.docx" download>Link text</a>
-        </header>
       </div>
     );
   }
