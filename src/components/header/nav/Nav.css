@@ -1,6 +1,12 @@
 
+.navbar-nav{
+  text-align: left;
+} 
+
 @media screen and (min-width: 500px) { 
-  .navbar-toggler{
-    display: none;
-  }
+  
+}
+
+.white {
+  color: azure;
 }
