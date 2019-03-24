@@ -4,6 +4,7 @@ import './App.css';
 import './bootstrap/dist/css/bootstrap.css'
 
 import Nav from './components/header/nav/Nav'
+import Footer from './components/footer/Footer';
 
 
 class App extends Component {
@@ -17,7 +18,7 @@ class App extends Component {
         </header>
         <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Edit <code>src/App.js</code> and ddddsave to reload.
           </p>
           <a
             className="App-link"
@@ -27,6 +28,8 @@ class App extends Component {
           >
             Learn React
           </a>
+          
+          <Footer/>
       </div>
     );
   }
