@@ -12,10 +12,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="container">
-          <Nav/>
-          
-          
+          <Nav/>  
         </header>
+        
         <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and ddddsave to reload.
