@@ -36,34 +36,3 @@ class Nav extends Component {
 }
 
 export default Nav;
-
-// <div class="pos-f-t">          
-//           <nav class="navbar navbar-dark bg-dark">
-//             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-//               <span class="navbar-toggler-icon"></span>
-//             </button>
-//             <p className="white">Luis Javier velazquez</p>
-//             <div class="collapse" id="navbarToggleExternalContent">
-//             <div class="bg-dark p-4">
-//               <ul class=" nav flex-column flex-lg-row">
-//                 <li class="nav-item">
-//                   <a class="nav-link active" href="#">Active</a>
-//                 </li>
-//                 <li class="nav-item">
-//                   <a class="nav-link" href="#">Link</a>
-//                 </li>
-//                 <li class="nav-item">
-//                   <a class="nav-link" href="#">Link</a>
-//                 </li>
-//                 <li class="nav-item">
-//                   <a class="nav-link disabled" href="#">Disabled</a>
-//                 </li>
-//               </ul>
-//             </div>
-//           </div>   
-//           </nav>
-          
-                   
-//         </div>
-          
-                
