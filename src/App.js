@@ -1,9 +1,11 @@
 import React, {Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
-import './bootstrap/dist/css/bootstrap.css'
+import './bootstrap/dist/css/bootstrap.css';
 
-import Nav from './components/header/nav/Nav'
+import Nav from './components/header/nav/Nav';
+import Intro from './components/Intro/Intro';
+import Work from './components/work/Work';
 import Footer from './components/footer/Footer';
 
 
@@ -12,23 +14,11 @@ class App extends Component {
     return (
       <div className="App">
         <header className="container">
-          <Nav/>  
+        <Nav/>
         </header>
-        
-        <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and ddddsave to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-          
-          <Footer/>
+        <Intro/>
+        <Work/>
+        <Footer/>
       </div>
     );
   }
