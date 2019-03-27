@@ -7,7 +7,7 @@ import Nav from './components/header/nav/Nav';
 import Intro from './components/Intro/Intro';
 import Work from './components/work/Work';
 import Footer from './components/footer/Footer';
-
+import Head from './components/header/Head/Head';
 
 class App extends Component {
   render() {
@@ -16,6 +16,7 @@ class App extends Component {
         <header className="container">
         <Nav/>
         </header>
+        <Head/>
         <Intro/>
         <Work/>
         <Footer/>
