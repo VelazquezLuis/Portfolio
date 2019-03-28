@@ -6,7 +6,7 @@ class Intro extends Component {
 
   render() {
     return(
-      <div id="myCarousel" class="carousel slide pointer-event" data-ride="carousel">
+      <div id="myCarousel" class="carousel slide pointer-event" id="about" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class=""></li>
           <li data-target="#myCarousel" data-slide-to="1" class="active"></li>

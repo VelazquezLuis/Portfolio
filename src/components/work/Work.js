@@ -7,7 +7,7 @@ class Work extends Component {
   render() {
     return(
 
-      <div class="container marketing">
+      <div class="container marketing" id="work">
         <div class="row">
           <div class="col-lg-4">
             <svg class="bd-placeholder-img rounded-circle" 
