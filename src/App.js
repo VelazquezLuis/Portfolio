@@ -13,7 +13,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="container">
+        <header className="container ">
         <Nav/>
         </header>
         <Head/>
