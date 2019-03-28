@@ -1,4 +1,7 @@
-
+.navbar{
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 1px
+}
 .navbar-nav{
   text-align: left;
 } 
@@ -9,4 +12,12 @@
 
 .white {
   color: azure;
+}
+
+
+.header  {
+  opacity: .1;
+}
+.header:hover  {
+  opacity: 1;
 }
