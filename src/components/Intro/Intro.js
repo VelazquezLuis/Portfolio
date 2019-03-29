@@ -6,7 +6,7 @@ class Intro extends Component {
 
   render() {
     return(
-      <div id="myCarousel" class="carousel slide pointer-event" id="about" data-ride="carousel">
+      <div id="myCarousel" class="carousel slide pointer-event"  data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class=""></li>
           <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
@@ -23,17 +23,17 @@ class Intro extends Component {
               </div>
             </div>
           </div>
-          <div class="carousel-item active">
+          <div class="carousel-item active wee ">
             <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"></rect></svg>
             <div class="container">
               <div class="carousel-caption">
-                <h1>Another example headline.</h1>
+                <h1>Anothedddr example headline.</h1>
                 <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
+          <div class="carousel-item wee">
             <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"></rect></svg>
             <div class="container">
               <div class="carousel-caption text-right">

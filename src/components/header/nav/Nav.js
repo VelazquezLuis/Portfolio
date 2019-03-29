@@ -18,7 +18,7 @@ class Nav extends Component {
               <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="#about">About <span class="sr-only"></span></a>
+              <a class="nav-link" href="#myCarousel">About <span class="sr-only"></span></a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="#work">Work <span class="sr-only">(current)</span></a>
