@@ -2,3 +2,11 @@
   margin-bottom: 0;
   height: 100vh;
 }
+.headTitle{
+  margin-top: 1em;
+}
+.titleDescription {
+  font-size: 2em;
+}
+.jumbotron{
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);}
