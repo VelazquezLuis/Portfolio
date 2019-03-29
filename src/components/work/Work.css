@@ -1,0 +1,11 @@
+.hee {
+  height: 75vh;
+  margin-top: 8rem;
+}
+
+
+@media screen and (max-width: 991px) {
+  .hee {
+    height: 100%;
+  }
+}

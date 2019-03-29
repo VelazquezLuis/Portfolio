@@ -1,13 +1,13 @@
 import React, {Component} from 'react';
 
-import '../work/Work.js'
+import '../work/Work.css'
 class Work extends Component {
 
 
   render() {
     return(
 
-      <div class="container marketing" id="work">
+      <div class="container hee marketing" id="work">
         <div class="row">
           <div class="col-lg-4">
             <svg class="bd-placeholder-img rounded-circle" 
