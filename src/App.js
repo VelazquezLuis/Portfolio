@@ -4,10 +4,11 @@ import './App.css';
 import './bootstrap/dist/css/bootstrap.css';
 
 import Nav from './components/header/nav/Nav';
+import Head from './components/header/Head/Head';
 import Intro from './components/Intro/Intro';
 import Work from './components/work/Work';
+import Form from './components/form/Form';
 import Footer from './components/footer/Footer';
-import Head from './components/header/Head/Head';
 
 class App extends Component {
   render() {
@@ -19,6 +20,7 @@ class App extends Component {
         <Head/>
         <Intro/>
         <Work/>
+        <Form/>
         <Footer/>
       </div>
     );
