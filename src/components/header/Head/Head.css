@@ -4,9 +4,20 @@
 }
 .headTitle{
   margin-top: 1em;
+color: aliceblue;
+font-weight: 700;  
 }
 .titleDescription {
-  font-size: 2em;
+  font-size: 2em;  
+color: aliceblue;
+font-weight: 700;  
 }
 .jumbotron{
   background-image: linear-gradient(to top, #09203f 0%, #537895 100%);}
+
+   #home{
+    background-color:white;
+    background-image: url("../himages/water.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
