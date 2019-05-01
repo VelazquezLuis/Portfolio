@@ -9,7 +9,7 @@ import Intro from './components/Intro/Intro';
 import Work from './components/work/Work';
 import Form from './components/form/Form';
 import Footer from './components/footer/Footer';
-
+import TopScroll from './components/topScroll/topScroll';
 class App extends Component {
   render() {
     return (
@@ -22,6 +22,7 @@ class App extends Component {
         <Work/>
         <Form/>
         <Footer/>
+        <TopScroll/>
       </div>
     );
   }

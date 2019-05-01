@@ -5,6 +5,7 @@
   "homepage": "https://VelazquezLuis.github.io/Portfolio/",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "jquery": "^3.4.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
